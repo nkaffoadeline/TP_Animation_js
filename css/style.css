@@ -1,0 +1,23 @@
+
+   body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #bdb7b7;
+  }
+
+  .box {
+    width: 400px;
+    height: 300px;
+    background-color: #3498db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+  }
